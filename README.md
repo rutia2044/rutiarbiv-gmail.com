@@ -7,4 +7,4 @@ If the code run over Google Colab platform:\
 	&emsp; In file 'Functions.py' change the 'path' variable to 'sample_data/Monet'.\
 If the code run over Local platform:\
 	&emsp; In file 'Functions.py' change the 'path' variable to contain the path to 'monet_jpg' directory.\
-	&emsp; Put the file 'Functions.py' at your working directory location.\
+	&emsp; Put the file 'Functions.py' at your working directory location.
